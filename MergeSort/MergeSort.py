@@ -1,5 +1,3 @@
-import sys
-sys.setrecursionlimit(50)
 import random
 
 def merge_sort(A, p, r) :
@@ -23,7 +21,7 @@ def merge(A, p, q, r) :
         else :
             A[i] = post_list[k]
             k += 1
-        
+
 
 
 algoList = []

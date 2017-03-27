@@ -1,6 +1,6 @@
 # Algorithm
 
-### This repository is made for rewinding algorithms what learned from University or persnal.
+### This repository is made for rewinding algorithms what learned from University or personal study.
 
 - [x] MergeSort
 - [ ] QuickSort
